@@ -1,6 +1,6 @@
 # My-Harvard-CS50-Programs
 My programs submitted in Harvard's CS50 course.  
-CS50 library is needed to run this code - [code.cs50.io](code.cs50.io)  
+CS50 library is needed to run this code - [code.cs50.io](https://code.cs50.io/)  
 <br>
 
 
